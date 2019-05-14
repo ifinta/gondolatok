@@ -1,1 +1,0 @@
-$(document).ready(function(){var n=$("iframe").not(".indavideo_newembed").filter('[src*="indavideo.hu"]');n.length&&$(window).on("load resize orientationchange",function(){Common.fixIndaIframes(n)})});

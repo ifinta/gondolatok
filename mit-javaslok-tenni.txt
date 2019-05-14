@@ -1,11 +1,25 @@
 Töröltem az eddigi tartalmat, aki akar, vissza tudja keresni - ez a dokumentum git-ben tárolt :)
 
-Egy link - ahol látszik mit teszek éppen:
+A régi repo elérhető a https://github.com/ifinta/gondolatok-old alatt pl.
+Immár több szerveren is elérhetőek párhuzamosan a tartalmak, immár nem csak az én nevem alatt.
+
+Egy link - ahol látszik mit teszek, teszünk éppen:
 
 https://www.facebook.com/groups/251738521921145/
-(( a face acc-om törlés alatt... van pár aggályom a face-vel kapcsolatban. pl. nem P2P :) és nem OpenSource :D ))
+(( a face acc-om törlés alatt... van pár aggályom a face-vel kapcsolatban. pl. 
+nem elosztott, nem P2P :) és nem OpenSource :D és "saját" pénzt terveznek éppen ))
+
+És 'No' Republica -ról is vannak kigyűjtött anyagok a face-en:
+https://www.facebook.com/No-Republica-926677260862586/
 
 De más fórumokon is teszek - veszek...
+Sajnos az alábbi forumok is hagyományos client - server rendszerek, akár a face, és 
+így a klasszikus internet része, lehetőségei van a cenzurának, és sajnos divattá is kezd válni, bár
+valljuk, hogy a cenzura buta hatalmi lehetőség. 
+
+    "I think all censorship should be deplored. My position is that bits are not a bug."
+
+    — Aaron Swartz (1986 - 2013)
 
 bitcointalk.org
 nxtforum.org
@@ -14,5 +28,16 @@ imgur
 és sokan mások...
 általában ifinta a usernevem, kivéve pl. a twitter-t, ahol ifinta66 ...
 
-Lehet csatlakozni, ha valakinek valamilyen kezdeményezésem tetszik!
+A cenzura kizárásának az érdekében térünk át a gun.db használatára.
+Ez egy új P2P és OpenSource lehetősége világunknak, megnyitja a kapukat egy sajátos módon
+egy újfajta internet elött.
+
+Példának itt a Vortexledger-ről kis információ a notabug.io (innen a fenti idézet amúgy...) rendszerében. 
+A Vortexledger (és a Charm, Dorothyum, ...) projektünk már kezd gun.db alapokon futni.
+
+https://cutt.ly/vortexledger
+
+Hasonlóra tervezek áttérni az itteni anyagokkal kapcsolatosan is.
+
+Lehet csatlakozni, ha valakinek valamilyen kezdeményezés tetszik!
 Köszönöm a figyelmet!
